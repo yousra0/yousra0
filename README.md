@@ -5,13 +5,13 @@ IT Engineering Student @ ESPRIT
 
 🔭 I’m currently working on a Desktop App "GAMI"
 
-🧠 I’m currently learning Data Analytics on Google Coursera
+🧠 I’m currently learning Data Science 
 
 💻 All of my projects are available at https://github.com/yousrachaieb0
 
 📫 How to reach me yousra.chaieb@esprit.tn
 
-📄 Know about my experiences https://www.linkedin.com/in/yousra-chaieb/
+
 
 <h3 align="left">🌐Connect with me:</h3>
 <p align="left">
