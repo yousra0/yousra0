@@ -3,13 +3,13 @@
 
 IT Engineering Student @ ESPRIT
 
-🔭 I’m currently working on a Desktop App "GAMI"
+🔭 I’m currently working on a project that leverages data science to transform football by enhancing scouting, fostering stakeholder collaboration, and enabling informed decision-making
 
 🧠 I’m currently learning Data Science 
 
 💻 All of my projects are available at https://github.com/yousrachaieb0
 
-📫 How to reach me yousra.chaieb@esprit.tn
+📫 How to reach me yousra.chaieb@icloud.com
 
 
 
