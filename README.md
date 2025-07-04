@@ -7,10 +7,10 @@
 
 ## 🔍 About Me
 
-🔭 I’m currently working on **ScoutiFy**, an AI-powered scouting platform that connects football players, clubs, and agents using recommendation systems and computer vision (YOLOv8, ByteTrack)
-🤖 Interested in **NLP**, **chatbots**, and **AI applications** in real-world problems
-🧠 Currently learning **MLOps**, **deployment pipelines**, and experimenting with **OpenAI APIs**
-📫 How to reach me yousra.chaieb@icloud.com
+🔭 I’m currently working on **ScoutiFy**, an AI-powered scouting platform that connects football players, clubs, and agents using recommendation systems and computer vision (YOLOv8, ByteTrack)<br>
+🤖 Interested in **NLP**, **chatbots**, and **AI applications** in real-world problems<br>
+🧠 Currently learning **MLOps**, **deployment pipelines**, and experimenting with **OpenAI APIs**<br>
+📫 How to reach me yousra.chaieb@icloud.com<br>
 
 
 
