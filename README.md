@@ -11,7 +11,7 @@
 <br>
 🤖 Interested in **NLP**, **chatbots**, and **AI applications** in real-world problems<br>
 🧠 Currently learning **Generative AI**, **LLM Fine-tuning**, and implementing **RAG**<br>
-🤝 Open to collaborating on open-source projects related to AI and data science
+🤝 Open to collaborating on open-source projects related to AI and data science<br>
 📫 How to reach me yousra.chaieb@icloud.com<br>
 
 
