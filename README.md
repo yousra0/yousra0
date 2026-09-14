@@ -9,8 +9,8 @@
 
 ## 🔍 About Me
 
-🔬 **Graduation Project (PFE @ PwC Tunisia):** Developed a hybrid financial fraud detection system combining ML, Deep Learning, and LLMs with an explanatory FastAPI/React web platform.  <br>
-<br>💼 **Professional Experience:** Hands-on experience across Data Science, ML pipelines, credit scoring, and AI solution industrialization .
+🔬 **Graduation Project (PFE @ PwC Tunisia):** Developed a hybrid financial fraud detection system combining ML, Deep Learning, and LLMs with an explanatory FastAPI/React web platform.
+<br>💼 **Professional Experience:** Hands-on experience across Data Science, ML pipelines, credit scoring, and AI solution industrialization .<br>
 <br>🤖 **Focus & Interests:** Generative AI, LLMs, RAG, Chatbots, Financial ML, and MLOps deployment.  
 <br>🛠️ **Featured Projects:** 
 - **Intelligent Anomaly Detection:** AI-powered financial audit platform that automatically detects suspicious transactions and provides clear, explainable insights for auditors . 
