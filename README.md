@@ -10,14 +10,14 @@
 ## 🔍 About Me
 
 🔬 **Graduation Project (PFE @ PwC Tunisia):** Developed a hybrid financial fraud detection system combining ML, Deep Learning, and LLMs with an explanatory FastAPI/React web platform.  
-💼 **Professional Experience:** Hands-on experience across Data Science, ML pipelines, credit scoring, and AI solution industrialization .
-🤖 **Focus & Interests:** Generative AI, LLMs, RAG, Chatbots, Financial ML, and MLOps deployment.  
-🛠️ **Featured Projects:** 
+<br>💼 **Professional Experience:** Hands-on experience across Data Science, ML pipelines, credit scoring, and AI solution industrialization .
+<br>🤖 **Focus & Interests:** Generative AI, LLMs, RAG, Chatbots, Financial ML, and MLOps deployment.  
+<br>🛠️ **Featured Projects:** 
 - **Intelligent Anomaly Detection:** AI-powered financial audit platform that automatically detects suspicious transactions and provides clear, explainable insights for auditors . 
 - **JobLens:** AI-powered resume & job offer matching platform using NLP Transformers & semantic search .
 - **Scoutify:** Real-time sports scouting system combining YOLOv8 tracking & recommendation algorithms .
 - **Speech Emotion Recognition:**  Generates synthetic emotional speech using VAEs and Diffusion Models to enhance emotion recognition accuracy.
-📫 **How to reach me:** [yousra.chaieb@icloud.com](mailto:yousra.chaieb@icloud.com) 
+<br>📫 **How to reach me:** [yousra.chaieb@icloud.com](mailto:yousra.chaieb@icloud.com) 
 
 ---
 
